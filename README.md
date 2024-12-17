@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [Cycle Sharing App](https://github.com/Cyclesharingsystem)
 
-- 🌱 I’m currently learning **React.js & Spring boot**
+- 🌱 I’m currently learning **React.js & .Net**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dilen1999](https://github.com/dilen1999)
 
-- 💬 Ask me about **React, Spring boot**
+- 💬 Ask me about **React, .Net ,Spring boot**
 
 - 📫 How to reach me **dilengeorge@gmail.com**
 
